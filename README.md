@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there ✨
+I'm Sean a **Game Programmer** 
 
 <!--
 **SnMatt/SnMatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
