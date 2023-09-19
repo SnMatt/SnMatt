@@ -1,17 +1,13 @@
 ### Hi there ✨
-I'm Sean a **Game Programmer** 
+I'm Sean
+a dedicated **game programmer**, passionately delving into the world of interactive experiences. Currently, I'm pursuing my degree in Game Application and Technology, honing my skills to craft captivating gaming adventures. My journey has been enriched by participating in various game development competitions, where I've showcased my creativity and technical proficiency.
 
-<!--
-**SnMatt/SnMatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Currently im working on Retro Invasion,
+you check out the demo [link here] and give your feedback.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Contacts
+LinkedIn [link]
+email [link]
+Itch.io [link]
