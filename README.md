@@ -14,6 +14,7 @@ The documentation for the project is still work in progress ;)
 If you're interested, take a look at other games i've made [on my itch.io page](https://smtt.itch.io/)
 
 ## Contacts
-### You can reach me from
+You can reach me from
 [LinkedIn](https://www.linkedin.com/in/sean-matt/)
+
 [Itch](https://smtt.itch.io/)
