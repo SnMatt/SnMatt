@@ -15,6 +15,7 @@ If you're interested, take a look at other games i've made [on my itch.io page](
 
 ## Contacts
 You can reach me from
+
 [LinkedIn](https://www.linkedin.com/in/sean-matt/)
 
 [Itch](https://smtt.itch.io/)
