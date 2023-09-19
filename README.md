@@ -4,13 +4,16 @@ a dedicated **game programmer**, passionately delving into the world of interact
 
 ## Projects
 Currently im working on Retro Invasion,
-you check out the demo [link here] and give your feedback.
+you check out the demo [here](https://wilsonn.itch.io/retro-invasion) and give your feedback.
 
+### Retro Invasion
+is a card game RPG but instead of being turn based, combat goes on in real time, resulting in a fast paced and chaotic combat system forcing the player to adapt and improvise.
 
-Here are my other projects
-[link]
+The documentation for the project is still work in progress ;)
+
+If you're interested, take a look at other games i've made [on my itch.io page](https://smtt.itch.io/)
 
 ## Contacts
-LinkedIn [link]
-email [link]
-Itch.io [link]
+### You can reach me from
+[LinkedIn](https://www.linkedin.com/in/sean-matt/)
+[Itch](https://smtt.itch.io/)
