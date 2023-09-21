@@ -9,7 +9,7 @@ you check out the demo [here](https://wilsonn.itch.io/retro-invasion) and give y
 ### Retro Invasion
 is a card game RPG but instead of being turn based, combat goes on in real time, resulting in a fast paced and chaotic combat system forcing the player to adapt and improvise.
 
-The documentation for the project is still work in progress ;) \
+The documentation for the project is still work in progress ;)
 
 [Retro Invation documentation](./ProjectDocumentations/RetroInvasion)
 
