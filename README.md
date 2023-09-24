@@ -18,13 +18,29 @@ Currently im working on Retro Invasion,
 you check out the demo [here](https://wilsonn.itch.io/retro-invasion) and give your feedback.
 
 ### Retro Invasion
-is a card game RPG but instead of being turn based, combat goes on in real time, resulting in a fast paced and chaotic combat system forcing the player to adapt and improvise.
+<img src="https://github.com/SnMatt/SnMatt/assets/92210062/f62a6b4f-15b6-497f-8cb5-e09eddbabe04" width="960" height="300" alt="linkedin logo"  />
 
-The documentation for the project is still work in progress ;)
+Retro Invasion is a card game RPG but instead of being turn based, combat goes on in real time, resulting in a fast paced and chaotic combat system forcing you to adapt and improvise.  
 
+Genre: Roguelike, Deckbuilding, RPG  
+
+- **"Best Overall"** category in **Joints Game Jam** 2023
+- **Finalist** of **LevelUpKL SEA Games Award** 2023
+
+The documentation for the project is still work in progress ;)  
 [Retro Invation documentation](./ProjectDocumentations/RetroInvasion)
 
-If you're interested, take a look at other games i've made [on my itch.io page](https://smtt.itch.io/)
+
+### Wonsteria
+<img src="https://github.com/SnMatt/SnMatt/assets/92210062/89da9f84-0acf-49aa-b057-ce7f07b21c86" width="960" height="300" alt="linkedin logo"  />
+
+Battle against creatures using a variety of weapons each with their own unique special effects and moves.
+
+Genre: Topdown, Action
+
+The documentation for the project is still work in progress ;)  
+
+If you're interested, take a look at other games i've made **[on my itch.io page](https://smtt.itch.io/)**
 
 ## Contacts
 You can reach me from
