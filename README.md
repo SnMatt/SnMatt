@@ -46,6 +46,12 @@ If you're interested, take a look at other games i've made **[on my itch.io page
 ## Contacts
 You can reach me from
 <div align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/3178/3178158.png " width="40" height="40" alt="email logo"  />
+</div>
+
+[seanmattz02@gmail.com](seanmattz02@gmail.com)
+
+<div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
 </div>
 
