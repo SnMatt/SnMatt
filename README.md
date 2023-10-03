@@ -26,6 +26,7 @@ Genre: Roguelike, Deckbuilding, RPG
 
 - **"Best Overall"** category in **Joints Game Jam** 2023
 - **Finalist** of **LevelUpKL SEA Games Award** 2023
+- **Most Innovative Award** at **GameXcellence** 2023
 
 The documentation for the project is still work in progress ;)  
 [Retro Invation documentation](./ProjectDocumentations/RetroInvasion)
