@@ -34,6 +34,8 @@ Genre: Roguelike, Deckbuilding, RPG
 
 **---> Visit [Retro Invasion Itch.io Page](https://wilsonn.itch.io/retro-invasion) <---**
 
+**--->Follow us on Instagram [@antimetastudio](https://www.instagram.com/antimetastudio/) <---**
+
 The documentation for the project is still work in progress ;)  
 [Retro Invation documentation](./ProjectDocumentations/RetroInvasion)
 
@@ -49,7 +51,7 @@ The documentation for the project is still work in progress ;)
 
 **---> Play some other games I've made [on my itch.io page](https://smtt.itch.io/) <---**
 
-## Contacts
+## Contact Me
 You can reach me from
 <div align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/6596/6596116.png" width="50" height="50" alt="email logo"  />
@@ -68,3 +70,13 @@ seanmattz02@gmail.com
 </div>
 
 [Itch](https://smtt.itch.io/)
+
+## Part of [Antimeta Studio](https://antimeta-studio.itch.io/)
+<div align="left">
+  <img src="https://github.com/SnMatt/SnMatt/assets/92210062/6bfef743-8be8-4728-bfa5-2947c6e3e12c" width="170" height="160" alt="logo"  />
+</div>
+
+we are a small indie devs from Indonesia.
+At Antimeta Studio, our vision is to create never-ending fun through our games.
+
+=> Currently working on Retro Invasion
