@@ -51,6 +51,9 @@ The documentation for the project is still work in progress ;)
 
 **---> Play some other games I've made [on my itch.io page](https://smtt.itch.io/) <---**
 
+## Certification
+Unity Associate Programmer [LINK](https://drive.google.com/file/d/1E18CWs231sOv0TbF6FZ8AFWfUguIrTfg/view)
+
 ## Contact Me
 You can reach me from
 <div align="left">
